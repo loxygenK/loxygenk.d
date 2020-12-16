@@ -46,6 +46,9 @@ frameworks:
   infra:
     name: インフラ
     techs:
+      github-action:
+        name: GitHub Action
+        level: practicing
       docker:
         name: Docker
         level: intermediate

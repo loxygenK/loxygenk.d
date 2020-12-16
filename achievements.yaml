@@ -82,9 +82,18 @@ developed:
       コマンドの解析をサポートするJDA(Discord Bot用フレームワーク)ラッパーです。
       JDAを用いたBot開発を楽にするために作りました。
 
-achievements:
+trace:
+  entry-nitic:
+    event:
+      date: 2019/04
+      name: 茨城高専 入学
+  entry-info-dep:
+    event:
+      date: 2020/04
+      name: 情報系進学(やった)
   PCK2020:
-    date: 2020/12
-    name: パソコン甲子園 2020 モバイル部門
-    prize: 予選通過
+    achieve:
+      date: 2020/12
+      name: パソコン甲子園 2020 モバイル部門
+      prize: 予選通過
 
