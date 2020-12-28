@@ -3,7 +3,7 @@
 
 name: 
   short: Flisan
-  long: /^([Ff]lisan)|(l(iquid\s?)oxygen(\.?[kK])?)|フライ(さん|グマ)|液体\s*酸素$/
+  long: loxygen.k
 
 belong:
   school:
