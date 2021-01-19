@@ -45,6 +45,10 @@ developed:
     description: |
       GitHubのPull Requestの本文にチェックボックスがあったとき、
       それに全てチェックが入らないと落ちるCIです。
+    badges:
+      - https://github.com/loxygenK/taskonfirm/workflows/lint/badge.svg
+      - https://github.com/loxygenK/taskonfirm/workflows/test/badge.svg
+      - https://github.com/loxygenK/taskonfirm/workflows/.github/workflows/ci-test-run.yml/badge.svg
   oxidizer:
     name: oxidizer
     site: https://github.com/loxygenK/oxidizer
@@ -63,6 +67,8 @@ developed:
     description: |
       あるコミュニティの公式ツイッターアカウントでツイートしたいときに
       使われるはずのDiscord Botです。使われていません。南無三。
+    badges:
+      - https://github.com/approvers/delitter/workflows/Docker/badge.svg
   genkai-dictionary:
     name: GenkaiDictionary
     site: https://github.com/approvers/genkai-dictionary
