@@ -1,0 +1,5 @@
+- name: Some work
+  description: Something.
+  repo_url: https://example.com
+  tags: []
+  status: Advancing

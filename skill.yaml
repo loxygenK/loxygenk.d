@@ -1,0 +1,4 @@
+- name: Whatever
+  skill_type: Frontend
+  level: Advanced
+  fa_icon_identifier: whatever
