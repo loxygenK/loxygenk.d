@@ -1,13 +1,15 @@
 name:
-  primary: Flisan
+  primary: フライさん
   aka:
+    - Flisan
     - loxygen.k
+    - 液体酸素
 
 introduction:
-  フライさんです．
+  フライさんです．単位と SOLID 原則と戯れながらコードを書いている高専 3 年生です．
 
 affiliation:
-  - location: "NITIC"
+  - location: "National Institute of Technology, Ibaraki College"
     assign: "3rd grade, Information dep."
 
 age: 18
