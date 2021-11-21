@@ -1,0 +1,82 @@
+- name: Pla-cake
+  tags:
+    - Flutter
+    - Dart
+  status: Completed
+  description: |
+    家族間での、食事に関する円滑なコミュニケーションを
+    サポートするアプリケーションです。
+    技育展 2021 に出展しました．
+
+- name: musical_typer
+  repo_url: https://github.com/loxygenK/musical_typer
+  tags:
+    - Python
+  status: Archived
+  description: |-
+    音楽の歌詞をタイピングするゲームです。
+    設計をしなかったので、大変興味深いコードになっています。
+
+- name: twemopick
+  repo_url: https://github.com/loxygenK/twemopick
+  tags:
+    - Rust
+  status: Completed
+  description: |
+    Twemoji の画像データや SVG データを取得して簡単に利用できるようにする
+    ユーティリティツールです．Rust の習作です．
+
+- name: trailegger
+  repo_url: https://github.com/loxygenK/trailegger
+  tags:
+    - Kotlin
+  status: Archived
+  description: |-
+    Osu!のキーボード版あったら楽しそうだなと思って作ったゲームです。
+    とんでもなく難しくて辛くなったので開発は停止しています。
+
+- name: Taskonfirm
+  repo_url: https://github.com/loxygenK/taskonfirm
+  tags:
+    - GitHub Action
+  status: Completed
+  description: |-
+    GitHub の Pull Request の本文にチェックボックスがあったとき、
+    それに全てチェックが入らないと落ちるCIです。
+
+- name: oxidizer
+  repo_url: https://github.com/loxygenK/oxidizer
+  tags:
+    - Python
+  status: Completed
+  description: |-
+    Rust で Arduino のプログラムを書いてから avrdude するときに、
+    コマンドの構文をいつも忘れるので痺れを切らして作ったツールです。
+
+- name: Delitter
+  repo_url: https://github.com/approvers/delitter
+  status: Completed
+  tags:
+    - Python
+  description: |
+    あるコミュニティの公式ツイッターアカウントでツイートしたいときに
+    使われるはずの Discord Bot です。使われずに運用が止まりました。南無三
+
+- name: GenkaiDictionary
+  repo_url: https://github.com/approvers/genkai-dictionary
+  status: Completed
+  tags:
+    - Kotlin
+  description: |
+    あるコミュニティで生まれた造語の辞書の役割を果たす Discord Bot です。
+    たまに使われていましたが Delitter と一緒にその運用に幕を閉じました．
+
+- name: jubilant
+  repo_url: https://github.com/approvers/jubilant
+  status: Archived
+  tags:
+    - Kotlin
+  description:
+    コマンドの解析をサポートする JDA (Discord Bot 用フレームワーク)ラッパーです。
+    JDA を用いた Bot 開発を楽にするために作りました。
+    開発が停止しています．

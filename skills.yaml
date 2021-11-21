@@ -1,0 +1,118 @@
+# level...
+#   Favorite ..... お気に入りです．
+#   Advanced ..... 業務や共同開発プロジェクトなど，大きなプロジェクトで使った経験があります．
+#   Experienced .. 実際にプロジェクトで使った経験があります．
+#   Beginner ..... 小さなものなら作れます．
+#   Studying ..... 実務で使えるかが不安です．勉強中です．
+
+- name: React
+  skill_type: Frontend
+  level: Favorite
+  emoji: ⚛️
+
+- name: TypeScript
+  skill_type: Frontend
+  level: Advanced
+  emoji: 🏷
+
+- name: CSS
+  skill_type: Frontend
+  level: Advanced
+  emoji: 🖌️
+
+- name: SCSS
+  skill_type: Frontend
+  level: Advanced
+  emoji: 🪄
+
+- name: styled-component
+  skill_type: Frontend
+  level: Advanced
+  emoji: 🎨
+
+- name: Dart (Flutter)
+  skill_type: Frontend
+  level: Experienced
+  emoji: 🦚
+
+
+- name: Python
+  skill_type: Backend
+  level: Advanced
+  emoji: 🐍
+
+- name: Kotlin
+  skill_type: Backend
+  level: Experienced
+  emoji: 🐣
+
+- name: Java
+  skill_type: Backend
+  level: Experienced
+  emoji: ☕
+
+- name: C#
+  skill_type: Backend
+  level: Beginner
+  emoji: 🎷
+
+- name: Rust
+  skill_type: Backend
+  level: Beginner
+  emoji: ⚙️
+
+- name: Go
+  skill_type: Backend
+  level: Studying
+  emoji: 🐭
+
+- name: Firebase - Cloud Firestore
+  skill_type: Infrastructure
+  level: Advanced
+  emoji: ☁️
+
+- name: Firebase - Realtime database
+  skill_type: Infrastructure
+  level: Advanced
+  emoji: 🔥
+
+- name: Flask
+  skill_type: Infrastructure
+  level: Advanced
+  emoji: 🪧
+
+- name: GitHub Actions
+  skill_type: Infrastructure
+  level: Experienced
+  emoji: 🏃
+
+- name: Docker
+  skill_type: Infrastructure
+  level: Experienced
+  emoji: 🐳
+
+- name: Docker compose
+  skill_type: Infrastructure
+  level: Experienced
+  emoji: 📦
+
+- name: Git
+  skill_type: Utility
+  level: Favorite
+  emoji: 🐙
+
+- name: Figma
+  skill_type: Utility
+  level: Favorite
+  emoji: 🧩
+
+- name: Neovim (coc.nvim)
+  skill_type: Utility
+  level: Favorite
+  emoji: 😈
+
+- name: Linux (Arch Linux, Ubuntu)
+  skill_type: Utility
+  level: Favorite
+  emoji: 🐧
+

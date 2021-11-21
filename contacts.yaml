@@ -1,0 +1,12 @@
+- service: Twitter
+  identifier: loxygen_k
+  url: https://twitter.com/loxygen_k
+
+- service: GitHub
+  identifier: loxygenk
+  url: https://github.com/loxygenk
+
+- service: Speaker Deck
+  identifier: loxygenk
+  url: https://speakerdeck.com/loxygenk
+
