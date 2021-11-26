@@ -1,6 +1,10 @@
 - service: Twitter
   identifier: loxygen_k
   url: https://twitter.com/loxygen_k
+  
+- service: Keybase
+  identifier: loxygenk
+  url: https://keybase.io/loxygenk
 
 - service: GitHub
   identifier: loxygenk
